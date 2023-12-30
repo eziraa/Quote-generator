@@ -32,11 +32,17 @@ body {
   font-size: 30px;
   border: none;
   transition: font-size 1s;
+  margin: 10px 5px;
 }
 
 .btn:hover{
   font-size: 40px;
 }
+
+/* .btn:active{
+  background-color: rgb(56, 23, 244);
+  border-radius: 50%;
+} */
 
 .btn:last-child{
   background-color: white;
