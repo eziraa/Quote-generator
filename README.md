@@ -22,7 +22,7 @@ Qoute Generator is designed to inspire and motivate users by presenting them wit
 
 ## Demo
 
-Visit [https://github.com/eziraa/Quote-generator.git] to experience the inspiring quotes firsthand: [See it](https://qoute-generator.netlify.app).
+Visit [https://github.com/eziraa/Quote-generator.git] to experience the inspiring quotes firsthand: [See it](https://quote-genarator-eziraa.netlify.app/).
 
 ## Getting Started
 
@@ -30,12 +30,12 @@ Explore the uplifting world of Qoute Generator by visiting the project URL menti
 
 ## Deployment
 
-Qoute Generator is deployed on Netlify. For more information on Netlify deployment, refer to [See it](https://qoute-generator.netlify.app).
+Qoute Generator is deployed on Netlify. For more information on Netlify deployment, refer to [See it](https://quote-genarator-eziraa.netlify.app/).
 
 
 ## Feedback
 
-We welcome your feedback! If you have any suggestions or encounter issues, feel free to open an [issue](https://github.com/your-eziraa/Qoute-generator/issues).
+We welcome your feedback! If you have any suggestions or encounter issues, feel free to open an [issue](https://github.com/eziraa/Qoute-generator/issues).
 
 
 
