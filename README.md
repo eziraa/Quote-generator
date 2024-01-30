@@ -22,7 +22,7 @@ Qoute Generator is designed to inspire and motivate users by presenting them wit
 
 ## Demo
 
-Visit [Your Project URL] to experience the inspiring quotes firsthand: [Your Project URL](https://your-project-netlify-url.netlify.app).
+Visit [https://github.com/eziraa/Quote-generator.git] to experience the inspiring quotes firsthand: [See it](https://qoute-generator.netlify.app).
 
 ## Getting Started
 
